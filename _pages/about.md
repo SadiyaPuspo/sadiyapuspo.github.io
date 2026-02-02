@@ -1,8 +1,38 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+title: ""
+permalink: /
+author_profile: false
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<div class="hero">
+  <div class="hero-name">Sadiya Sayara Chowdhury Puspo</div>
+  <div class="hero-subtitle">
+    PhD Researcher | NLP • GenAI • Mental Health<br/>
+    George Mason University
+  </div>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+  <div class="hero-pills">
+    <span class="pill">Graduate Teaching Assistant @ GMU</span>
+    <span class="pill">Data Scientist Intern @ Navy Federal Credit Union</span>
+  </div>
+
+  <div class="hero-bio">
+    I build and evaluate NLP and large language model systems for mental health applications, with an emphasis on multilingual evaluation,
+    dataset creation, and reliable benchmarking.
+  </div>
+
+  <div class="hero-tags">
+    <span class="tag">Mental Health NLP</span>
+    <span class="tag">Multilingual NLP</span>
+    <span class="tag">LLM Evaluation</span>
+    <span class="tag">Dataset Benchmarking</span>
+    <span class="tag">Low-Resource Languages</span>
+  </div>
+</div>
+
+<hr/>
+
+## Featured work
+I’m currently organizing selected projects and paper pages here.
