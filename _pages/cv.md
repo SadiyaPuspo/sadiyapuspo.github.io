@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: false
 ---
 
-[Open CV](https://drive.google.com/file/d/1_mRTPpeWqUiLZxtaI6NdDx7dKxByXPvY/view?usp=sharing)
+[Open Resume](https://drive.google.com/file/d/1_mRTPpeWqUiLZxtaI6NdDx7dKxByXPvY/view?usp=sharing)
 
