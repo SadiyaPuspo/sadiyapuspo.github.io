@@ -28,7 +28,7 @@
 .author__urls { overflow-x: hidden; }
 /* Increase author avatar size */
 .author__avatar img {
-  max-width: 160px;   /* try 160–200 */
+  max-width: 200px;   /* try 160–200 */
   border-radius: 50%;
 }
 
