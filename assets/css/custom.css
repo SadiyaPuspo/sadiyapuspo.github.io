@@ -1,6 +1,6 @@
 
 .hero { padding: 2.2rem 0 1.2rem 0; }
-.hero-name { font-size: 3.2rem; font-weight: 800; line-height: 1.03; }
+.hero-name { font-size: 2.7rem; font-weight: 800; line-height: 1.1; }
 .hero-subtitle { margin-top: 0.9rem; font-size: 1.15rem; opacity: 0.86; }
 
 .hero-pills { margin-top: 1.1rem; display: flex; gap: 0.6rem; flex-wrap: wrap; }
