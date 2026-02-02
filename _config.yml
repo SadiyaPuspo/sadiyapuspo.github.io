@@ -30,8 +30,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-custom_css:
-  - /assets/css/custom.css
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -70,7 +69,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+custom_css:
+  - /assets/css/custom.css
 footer:
   links:
     - label: "Twitter"
