@@ -57,7 +57,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "spuspo@gmu.edu"
+      url: "mailto:spuspo@gmu.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sadiya-puspo/"
