@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Resume
 permalink: /cv/
 author_profile: false
 ---
