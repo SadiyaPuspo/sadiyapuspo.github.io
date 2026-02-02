@@ -24,3 +24,5 @@
   font-size: 0.9rem;
   border: 1px solid #d8e0ea;
 }
+.sidebar { overflow-x: hidden; }
+.author__urls { overflow-x: hidden; }
