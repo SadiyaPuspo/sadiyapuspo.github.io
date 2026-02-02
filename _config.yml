@@ -55,7 +55,6 @@ plugins:
 author:
   name   : "Sadiya Puspo"
   avatar : "/assets/images/corp_pic.jpg"
-  bio    : "PhD researcher| NLP for mental health | LLM benchmarking."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
