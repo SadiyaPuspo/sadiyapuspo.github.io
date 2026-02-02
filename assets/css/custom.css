@@ -1,0 +1,26 @@
+
+.hero { padding: 2.2rem 0 1.2rem 0; }
+.hero-name { font-size: 3.2rem; font-weight: 800; line-height: 1.03; }
+.hero-subtitle { margin-top: 0.9rem; font-size: 1.15rem; opacity: 0.86; }
+
+.hero-pills { margin-top: 1.1rem; display: flex; gap: 0.6rem; flex-wrap: wrap; }
+.pill {
+  display: inline-block;
+  padding: 0.55rem 0.95rem;
+  border-radius: 999px;
+  background: #2f3a4a;
+  color: #fff;
+  font-size: 0.95rem;
+}
+
+.hero-bio { margin-top: 1.2rem; font-size: 1.05rem; max-width: 70ch; opacity: 0.92; }
+
+.hero-tags { margin-top: 1.3rem; display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.tag {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: #eef2f7;
+  font-size: 0.9rem;
+  border: 1px solid #d8e0ea;
+}
