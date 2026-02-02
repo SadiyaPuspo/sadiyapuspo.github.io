@@ -55,8 +55,9 @@ plugins:
 author:
   avatar : "/assets/images/corp_pic.jpg"
   links:
-    - label: "spuspo@gmu.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
+      url: "spuspo@gmu.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sadiya-puspo/"
