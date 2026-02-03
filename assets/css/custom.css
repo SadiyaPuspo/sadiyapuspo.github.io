@@ -31,4 +31,8 @@
   max-width: 200px;   /* try 160–200 */
   border-radius: 50%;
 }
+.nav__list .active a {
+  font-weight: 700;
+  border-bottom: 2px solid #2f3a4a;
+}
 
